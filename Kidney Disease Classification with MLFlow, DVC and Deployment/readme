@@ -1,0 +1,7 @@
+This is an implementation of an End to End to Deep Learning project using
+MLFlow that involves setting up of DVC pipelines, Dockerization and AWS CICD Deployment 
+where we will perform the Kidney Deisease Classification
+
+Dataset:
+
+Reuirements:
